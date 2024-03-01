@@ -2,39 +2,46 @@ import ndcctools.work_queue as wq;
 import os
 
 def getFiles() :
-    all_files = os.listdir(os.getcwd())
+    # TODO: Change this to a function call later, for portability
+    all_files = os.listdir("/lustre/home/aemccall/sugarscape-ookami/data")
 
-    # Filter files that start with "meow"
-    combined_books_list = [file for file in all_files if file.startswith("combined_books")]
-    return combined_books_list
+    seeds_list = [file for file in all_files if file.endswith(".config")]
+    return seeds_list
 
 try:
-    q = wq.WorkQueue(name="bhau")
+    q = wq.WorkQueue(name="sugarscape_port")
    
 except:
     print("Could not do it")
-workers =  wq.Factory(batch_type="slurm", manager_name="bhau")
-workers.workers_per_cycle = 200
-workers.max_workers = 2000
-workers.min_workers = 200
+workers =  wq.Factory(batch_type="slurm", 
+                      manager_name="sugarscape_port")
+# TODO: Figure out 
+# Pieces of information we need to determine the correct partition:
+# 1. How long does a job take on average? (Rough estimate)
+# 2. How many workers do we want to run at once?
+workers.workers_per_cycle = 20
+workers.max_workers = 20
+workers.min_workers = 1
 workers.batch_options = "--partition=short"
-combined_book_list = getFiles()
-print(len(combined_book_list))
+seeds_list = getFiles()
+seeds_trimmed = []
+for file in seeds_list :
+        file_trimmed = file.split('.')[0]
+        seeds_trimmed.append(file_trimmed)
+print(seeds_trimmed)
 
 with workers:
-    i = 0
-    for file in combined_book_list :
-        command = f"python3 WordCounter.py {file} {i} > word_frequency_{i}.txt"
+    for file in seeds_list :
+        file_trimmed = file.split(".")
+        command = f"python3 ../sugarscape.py --conf {file}"
         task = wq.Task(command)
-        task.specify_input_file("WordCounter.py", "WordCounter.py", cache = True)
-        task.specify_input_file(file, file, cache = True)
-        task.specify_input_file("test-env.sh", "test-env.sh", cache = True)
-        task.specify_output_file(f"word_frequency_{i}.txt", f"word_frequency_{i}.txt", cache = True)
-        q.submit(task)
-        i += 1
+        task.specify_input_file("../sugarscape.py", "sugarscape.py", cache = True)
+        task.specify_input_file(f"../data/{file}", file, cache = True)
+        task.specify_output_file(f"../data/{file}.json", f"{file}.json", cache = True)
+        q.submit(task) 
 
     while not q.empty() :
-        t = q.wait(100)
+        t = q.wait()
         if t:
             print("Task {} has returned!".format(t.id))
 
