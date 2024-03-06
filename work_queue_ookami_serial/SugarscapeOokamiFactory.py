@@ -28,9 +28,8 @@ workers =  wq.Factory(batch_type="slurm", manager_name="sugarscape_no_batch")
 signal.signal(signal.SIGINT, interruptHandler)
 workers.workers_per_cycle = 10
 workers.max_workers = 32
-workers.min_workers = 1
-workers.memory = 8192
-workers.cores = 48
+workers.memory = 25600
+workers.cores = 3
 workers.batch_options = "--partition=short"
 seeds_list = getFiles()
 seeds_trimmed = []
