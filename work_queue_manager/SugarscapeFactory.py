@@ -12,25 +12,13 @@ def getFiles() :
     
 def interruptHandler(signal, frame, wq: wq):
     print("Keyboard Interrupt Read! Shutting down...")
-    wq.work_queue_shut_down_workers(0)
     sys.exit(0)
 
 try:
     q = wq.WorkQueue(name="sugarscape", debug_log = "my.debug.log", transactions_log="my.transaction.log", port=9125)
 except Exception :
     print("Could not activate Work Queue: ", sys.exception())
-# workers =  wq.Factory(batch_type="slurm", manager_name="sugarscape_no_batch")
-# TODO: Figure out 
-# Pieces of information we need to determine the correct partition:
-# 1. How long does a job take on average? (Rough estimate)
-# 2. How many workers do we want to run at once?
 
-# signal.signal(signal.SIGINT, interruptHandler)
-# workers.workers_per_cycle = 10
-# workers.max_workers = 32
-# workers.memory = 25600
-# workers.cores = 3
-# workers.batch_options = "--partition=short"
 seeds_list = getFiles()
 seeds_trimmed = []
 for file in seeds_list :
@@ -49,9 +37,6 @@ for file in seeds_trimmed :
     task.specify_input_file(f"../environment.py", "environment.py", cache = True)
     task.specify_input_file(f"../ethics.py", "ethics.py", cache = True)
     task.specify_output_file(f"{file}.json", f"{file}.json", cache = False)
-    # task.specify_priority(20000000)
-    # task.specify_cores(1)
-    # task.specify_max_retries(3)
     print(f"Task submitted: python3 sugarscape.py --conf {file}.config\n")
     q.submit(task)
 
