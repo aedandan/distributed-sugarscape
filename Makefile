@@ -17,8 +17,14 @@ CLEAN = log.json \
 		$(PLOTS)
 
 # Change to python3 (or other alias) if needed
-PYTHON = python3
+PYTHON = python
+PYTHON3 = python3
 SUGARSCAPE = sugarscape.py
+FACTORY = WorkQueueFactory.py
+FACTORY_FOLDER = WQ_Factory
+MANAGER_NAME = sugarscape_osg_stampede3
+CONDOR = condor
+SLURM = slurm
 
 # Check for local Bash and Python aliases
 BASHCHECK = $(shell which bash > /dev/null; echo $$?)
@@ -41,6 +47,12 @@ plots: $(PLOTCHECK)
 
 seeds:
 	cd data && $(PYTHON) run.py --conf ../$(CONFIG) --seeds
+
+condor_factory:
+	cd $(FACTORY_FOLDER) && $(PYTHON3) $(FACTORY) $(MANAGER_NAME) $(CONDOR)
+
+slurm_factory:
+	cd $(FACTORY_FOLDER) && $(PYTHON3) $(FACTORY) $(MANAGER_NAME) $(CONDOR)
 
 setup:
 	@echo "Checking for local Bash and Python installations."
