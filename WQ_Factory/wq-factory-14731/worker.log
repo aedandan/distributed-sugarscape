@@ -1,0 +1,131 @@
+2024/03/06 21:26:36.67 work_queue_worker[15] debug: ./work_queue_worker version 7.8.0 FINAL (released 2024-02-26 21:38:27 +0000)
+2024/03/06 21:26:36.67 work_queue_worker[15] debug: Built by conda@9f261b0ab263 on 2024-02-26 21:38:27 +0000
+2024/03/06 21:26:36.67 work_queue_worker[15] debug: System: Linux 9f261b0ab263 6.5.0-1015-azure #15~22.04.1-Ubuntu SMP Tue Feb 13 01:15:12 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
+2024/03/06 21:26:36.67 work_queue_worker[15] debug: Configuration: --debug --prefix /home/aniquaTabassum/miniconda3 --with-base-dir /home/aniquaTabassum/miniconda3 --with-readline-path no --with-fuse-path no --with-perl-path no --without-system-parrot --without-system-prune --without-system-umbrella --without-system-weaver
+2024/03/06 21:26:36.69 work_queue_worker[15] wq: WORK_QUEUE_SANDBOX set to /srv/worker-200494-15.
+2024/03/06 21:26:36.69 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
+2024/03/06 21:26:36.69 work_queue_worker[15] wq: querying catalog for managers with project=meow_test
+2024/03/06 21:26:36.69 work_queue_worker[15] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/06 21:26:36.69 work_queue_worker[15] http: connect catalog.cse.nd.edu port 9097
+2024/03/06 21:26:36.69 work_queue_worker[15] dns: looking up name catalog.cse.nd.edu
+2024/03/06 21:26:36.69 work_queue_worker[15] dns: catalog.cse.nd.edu is 129.74.152.177
+2024/03/06 21:26:36.69 work_queue_worker[15] tcp: connecting to 129.74.152.177 port 9097
+2024/03/06 21:26:36.73 work_queue_worker[15] tcp: made connection to 129.74.152.177 port 9097
+2024/03/06 21:26:36.73 work_queue_worker[15] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 7.8.0 FINAL Parrot; http://ccl.cse.nd.edu/)
+2024/03/06 21:26:36.77 work_queue_worker[15] http: HTTP/1.1 200 OK
+2024/03/06 21:26:36.77 work_queue_worker[15] http: Date: Wed Mar  6 23:26:36 2024
+2024/03/06 21:26:36.77 work_queue_worker[15] http: Server: catalog_server
+2024/03/06 21:26:36.77 work_queue_worker[15] http: Connection: close
+2024/03/06 21:26:36.77 work_queue_worker[15] http: Access-Control-Allow-Origin: *
+2024/03/06 21:26:36.77 work_queue_worker[15] http: Content-type: text/plain; charset=utf-8
+2024/03/06 21:26:36.77 work_queue_worker[15] http:
+2024/03/06 21:26:37.36 work_queue_worker[15] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/06 21:26:37.37 work_queue_worker[15] wq: project name meow_test matches 0 managers
+2024/03/06 21:26:39.37 work_queue_worker[15] wq: project name meow_test matches 0 managers
+2024/03/06 21:26:43.38 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
+2024/03/06 21:26:43.38 work_queue_worker[15] wq: project name meow_test matches 0 managers
+2024/03/06 21:26:51.38 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
+2024/03/06 21:26:51.38 work_queue_worker[15] wq: project name meow_test matches 0 managers
+2024/03/06 21:27:07.38 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
+2024/03/06 21:27:07.38 work_queue_worker[15] wq: project name meow_test matches 0 managers
+2024/03/06 21:27:39.38 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
+2024/03/06 21:27:39.38 work_queue_worker[15] wq: querying catalog for managers with project=meow_test
+2024/03/06 21:27:39.38 work_queue_worker[15] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/06 21:27:39.38 work_queue_worker[15] http: connect catalog.cse.nd.edu port 9097
+2024/03/06 21:27:39.38 work_queue_worker[15] tcp: connecting to 129.74.152.177 port 9097
+2024/03/06 21:27:39.42 work_queue_worker[15] tcp: made connection to 129.74.152.177 port 9097
+2024/03/06 21:27:39.42 work_queue_worker[15] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 7.8.0 FINAL Parrot; http://ccl.cse.nd.edu/)
+2024/03/06 21:27:39.46 work_queue_worker[15] http: HTTP/1.1 200 OK
+2024/03/06 21:27:39.46 work_queue_worker[15] http: Date: Wed Mar  6 23:27:39 2024
+2024/03/06 21:27:39.46 work_queue_worker[15] http: Server: catalog_server
+2024/03/06 21:27:39.46 work_queue_worker[15] http: Connection: close
+2024/03/06 21:27:39.46 work_queue_worker[15] http: Access-Control-Allow-Origin: *
+2024/03/06 21:27:39.46 work_queue_worker[15] http: Content-type: text/plain; charset=utf-8
+2024/03/06 21:27:39.46 work_queue_worker[15] http:
+2024/03/06 21:27:40.06 work_queue_worker[15] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/06 21:27:40.07 work_queue_worker[15] wq: project name meow_test matches 0 managers
+2024/03/06 21:28:40.07 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
+2024/03/06 21:28:40.07 work_queue_worker[15] wq: querying catalog for managers with project=meow_test
+2024/03/06 21:28:40.07 work_queue_worker[15] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/06 21:28:40.07 work_queue_worker[15] http: connect catalog.cse.nd.edu port 9097
+2024/03/06 21:28:40.07 work_queue_worker[15] tcp: connecting to 129.74.152.177 port 9097
+2024/03/06 21:28:40.11 work_queue_worker[15] tcp: made connection to 129.74.152.177 port 9097
+2024/03/06 21:28:40.11 work_queue_worker[15] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 7.8.0 FINAL Parrot; http://ccl.cse.nd.edu/)
+2024/03/06 21:28:40.15 work_queue_worker[15] http: HTTP/1.1 200 OK
+2024/03/06 21:28:40.15 work_queue_worker[15] http: Date: Wed Mar  6 23:28:40 2024
+2024/03/06 21:28:40.15 work_queue_worker[15] http: Server: catalog_server
+2024/03/06 21:28:40.15 work_queue_worker[15] http: Connection: close
+2024/03/06 21:28:40.15 work_queue_worker[15] http: Access-Control-Allow-Origin: *
+2024/03/06 21:28:40.15 work_queue_worker[15] http: Content-type: text/plain; charset=utf-8
+2024/03/06 21:28:40.15 work_queue_worker[15] http:
+2024/03/06 21:28:40.74 work_queue_worker[15] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/06 21:28:40.75 work_queue_worker[15] wq: project name meow_test matches 0 managers
+2024/03/06 21:29:40.76 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
+2024/03/06 21:29:40.76 work_queue_worker[15] wq: querying catalog for managers with project=meow_test
+2024/03/06 21:29:40.76 work_queue_worker[15] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/06 21:29:40.76 work_queue_worker[15] http: connect catalog.cse.nd.edu port 9097
+2024/03/06 21:29:40.76 work_queue_worker[15] tcp: connecting to 129.74.152.177 port 9097
+2024/03/06 21:29:40.79 work_queue_worker[15] tcp: made connection to 129.74.152.177 port 9097
+2024/03/06 21:29:40.79 work_queue_worker[15] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 7.8.0 FINAL Parrot; http://ccl.cse.nd.edu/)
+2024/03/06 21:29:40.83 work_queue_worker[15] http: HTTP/1.1 200 OK
+2024/03/06 21:29:40.83 work_queue_worker[15] http: Date: Wed Mar  6 23:29:40 2024
+2024/03/06 21:29:40.83 work_queue_worker[15] http: Server: catalog_server
+2024/03/06 21:29:40.83 work_queue_worker[15] http: Connection: close
+2024/03/06 21:29:40.83 work_queue_worker[15] http: Access-Control-Allow-Origin: *
+2024/03/06 21:29:40.83 work_queue_worker[15] http: Content-type: text/plain; charset=utf-8
+2024/03/06 21:29:40.83 work_queue_worker[15] http:
+2024/03/06 21:29:41.42 work_queue_worker[15] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/06 21:29:41.43 work_queue_worker[15] wq: project name meow_test matches 0 managers
+2024/03/06 21:30:41.44 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
+2024/03/06 21:30:41.44 work_queue_worker[15] wq: querying catalog for managers with project=meow_test
+2024/03/06 21:30:41.44 work_queue_worker[15] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/06 21:30:41.44 work_queue_worker[15] http: connect catalog.cse.nd.edu port 9097
+2024/03/06 21:30:41.44 work_queue_worker[15] tcp: connecting to 129.74.152.177 port 9097
+2024/03/06 21:30:41.48 work_queue_worker[15] tcp: made connection to 129.74.152.177 port 9097
+2024/03/06 21:30:41.48 work_queue_worker[15] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 7.8.0 FINAL Parrot; http://ccl.cse.nd.edu/)
+2024/03/06 21:30:41.52 work_queue_worker[15] http: HTTP/1.1 200 OK
+2024/03/06 21:30:41.52 work_queue_worker[15] http: Date: Wed Mar  6 23:30:41 2024
+2024/03/06 21:30:41.52 work_queue_worker[15] http: Server: catalog_server
+2024/03/06 21:30:41.52 work_queue_worker[15] http: Connection: close
+2024/03/06 21:30:41.52 work_queue_worker[15] http: Access-Control-Allow-Origin: *
+2024/03/06 21:30:41.52 work_queue_worker[15] http: Content-type: text/plain; charset=utf-8
+2024/03/06 21:30:41.52 work_queue_worker[15] http:
+2024/03/06 21:30:42.07 work_queue_worker[15] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/06 21:30:42.09 work_queue_worker[15] wq: project name meow_test matches 0 managers
+2024/03/06 21:31:42.09 work_queue_worker[15] debug: error reading disk usage on directory: ./cache.
+2024/03/06 21:31:42.09 work_queue_worker[15] wq: querying catalog for managers with project=meow_test
+2024/03/06 21:31:42.09 work_queue_worker[15] debug: trying catalog query: http://catalog.cse.nd.edu:9097/query/dHJ1ZQ==
+2024/03/06 21:31:42.09 work_queue_worker[15] http: connect catalog.cse.nd.edu port 9097
+2024/03/06 21:31:42.09 work_queue_worker[15] dns: looking up name catalog.cse.nd.edu
+2024/03/06 21:31:42.09 work_queue_worker[15] dns: catalog.cse.nd.edu is 129.74.152.177
+2024/03/06 21:31:42.09 work_queue_worker[15] tcp: connecting to 129.74.152.177 port 9097
+2024/03/06 21:31:42.13 work_queue_worker[15] tcp: made connection to 129.74.152.177 port 9097
+2024/03/06 21:31:42.13 work_queue_worker[15] http: GET /query/dHJ1ZQ== HTTP/1.1
+Connection: close
+Host: catalog.cse.nd.edu
+User-Agent: Mozilla/5.0 (compatible; CCTools 7.8.0 FINAL Parrot; http://ccl.cse.nd.edu/)
+2024/03/06 21:31:42.17 work_queue_worker[15] http: HTTP/1.1 200 OK
+2024/03/06 21:31:42.17 work_queue_worker[15] http: Date: Wed Mar  6 23:31:42 2024
+2024/03/06 21:31:42.17 work_queue_worker[15] http: Server: catalog_server
+2024/03/06 21:31:42.17 work_queue_worker[15] http: Connection: close
+2024/03/06 21:31:42.17 work_queue_worker[15] http: Access-Control-Allow-Origin: *
+2024/03/06 21:31:42.17 work_queue_worker[15] http: Content-type: text/plain; charset=utf-8
+2024/03/06 21:31:42.17 work_queue_worker[15] http:
+2024/03/06 21:31:42.72 work_queue_worker[15] tcp: disconnected from 129.74.152.177 port 9097
+2024/03/06 21:31:42.73 work_queue_worker[15] wq: project name meow_test matches 0 managers
+2024/03/06 21:31:42.73 work_queue_worker[15] notice: stopping: could not connect after 300 seconds.
