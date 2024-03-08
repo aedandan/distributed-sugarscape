@@ -80,7 +80,9 @@ def printUsage():
 if __name__ == "__main__":
     signal.signal(signal.SIGINT, interruptHandler)
     try:
-        q = WorkQueue.WorkQueue(name="sugarscape", debug_log = "debug.sugarscape.distrib.log", transactions_log="transaction.sugarscape.distrib.log", port=9125)
+        q = WorkQueue.WorkQueue(name="sugarscape", debug_log = "debug.sugarscape.distrib.log", 
+                                transactions_log="transaction.sugarscape.distrib.log", port=9125)
+        q.activate_fast_abort(2)
     except Exception :
         print("Could not activate Work Queue: ", sys.exception())
 
@@ -89,12 +91,12 @@ if __name__ == "__main__":
     print(number_of_seeds)
     decision_model_times = {}
     total_decision_model_time = 0
-    for decision_model in all_sugarscape_seeds:
-        decision_model_simulation_duration = timeSeeds(all_sugarscape_seeds[decision_model])
-        decision_model_times[decision_model] = decision_model_simulation_duration
-        total_decision_model_time += decision_model_simulation_duration
-        average_duration_per_simulation = decision_model_simulation_duration / number_of_seeds
-        print("{} took {} seconds to run all simulations, with an average of {} per simulation"
-              .format(decision_model, decision_model_simulation_duration, average_duration_per_simulation))
+    # for decision_model in all_sugarscape_seeds:
+    #     decision_model_simulation_duration = timeSeeds(all_sugarscape_seeds[decision_model], q)
+    #     decision_model_times[decision_model] = decision_model_simulation_duration
+    #     total_decision_model_time += decision_model_simulation_duration
+    #     average_duration_per_simulation = decision_model_simulation_duration / number_of_seeds
+    #     print("{} took {} seconds to run all simulations, with an average of {} per simulation"
+    #           .format(decision_model, decision_model_simulation_duration, average_duration_per_simulation))
     sys.exit(0)
     
