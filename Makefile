@@ -73,6 +73,7 @@ else
 	@echo "This message should never be reached."
 endif
 
+
 test:
 	$(PYTHON) $(SUGARSCAPE) --conf $(CONFIG)
 
