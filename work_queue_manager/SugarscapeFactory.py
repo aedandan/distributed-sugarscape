@@ -8,28 +8,35 @@ import getopt
 from typing import List
 from typing import Dict
 
+
+all_decision_models = []
 def getSeeds() -> Dict[str, List[str]]:
     all_files = os.listdir("{}/../data".format(os.getcwd()))
 
     seeds_list = [file for file in all_files if file.endswith(".config")]
+    print(seeds_list)
     seed_groups: Dict[str, List[str]] = {}
     for seed in seeds_list:
         seed_trimmed = seed.split('.')[0]
         decision_model = re.split(r'\d+', seed_trimmed)[0]
+        all_decision_models.append(seed_trimmed)
         if (decision_model not in seed_groups):
             seed_groups[decision_model] = [seed_trimmed]
         else:
             seed_groups[decision_model].append(seed_trimmed)
+    
     return seed_groups
     
 def interruptHandler(signal, frame):
     print("Keyboard Interrupt Read! Shutting down...")
     sys.exit(0)
 
-# Function that times runs of a decision model based on the list of seeds passed in
-def timeSeeds(seeds: List[str], wq: WorkQueue) -> float:
+def run_simulations(seed_groups: Dict[str, List[str]], wq: WorkQueue) :
+    time_dictionary = {}
+    decision_model_names = seed_groups.keys()
     jobs_start = time.time()
-    for file in seeds:
+    jobs_end = 0
+    for file in all_decision_models:
         command = f"python3 sugarscape.py --conf {file}.config > {file}.json"
         task = WorkQueue.Task(command)
         task.specify_input_file("../sugarscape.py", "sugarscape.py", cache = True)
@@ -40,6 +47,7 @@ def timeSeeds(seeds: List[str], wq: WorkQueue) -> float:
         task.specify_input_file(f"../environment.py", "environment.py", cache = True)
         task.specify_input_file(f"../ethics.py", "ethics.py", cache = True)
         task.specify_output_file(f"{file}.json", f"{file}.json", cache = False)
+        task.specify_tag(file)
         print(f"Task submitted: python3 sugarscape.py --conf {file}.config\n")
         wq.submit(task)
 
@@ -56,8 +64,18 @@ def timeSeeds(seeds: List[str], wq: WorkQueue) -> float:
                 print("There was a problem executing the task.")
         else:
             print("No task generated.")
-    jobs_end = time.time() - jobs_start
-    return jobs_end
+        jobs_end = time.time() - jobs_start
+        task_tag = t.tag
+        
+        for decision_model in decision_model_names:
+            if decision_model in task_tag :
+                if decision_model in time_dictionary:
+                    time_dictionary[decision_model] += jobs_end
+                else:
+                    time_dictionary[decision_model] = jobs_end
+                
+    return time_dictionary
+
 
 def readCommandLineArguments() -> int:
     commandLineArgs = sys.argv[1:]
@@ -82,7 +100,7 @@ if __name__ == "__main__":
     try:
         q = WorkQueue.WorkQueue(name="sugarscape_osg_stampede3_v2", debug_log = "debug.sugarscape.distrib.log", 
                                 transactions_log="transaction.sugarscape.distrib.log", port=9125)
-        q.activate_fast_abort(2)
+        q.activate_fast_abort(3)
     except Exception :
         print("Could not activate Work Queue: ", sys.exception())
 
@@ -90,14 +108,14 @@ if __name__ == "__main__":
     number_of_seeds = readCommandLineArguments()
     print(number_of_seeds)
     decision_model_times = {}
-    total_decision_model_time = 0
-    for decision_model in all_sugarscape_seeds:
-        decision_model_simulation_duration = timeSeeds(all_sugarscape_seeds[decision_model], q)
-        decision_model_times[decision_model] = decision_model_simulation_duration
-        total_decision_model_time += decision_model_simulation_duration
-        average_duration_per_simulation = decision_model_simulation_duration / float(number_of_seeds)
-        print("{} took {} seconds to run all simulations, with an average of {} per simulation"
-               .format(decision_model, decision_model_simulation_duration, average_duration_per_simulation))
-    print("Sugarscape took {} seconds to run".format(total_decision_model_time))
+    #decision_model_simulation_duration = timeSeeds(all_sugarscape_seeds[decision_model], q)
+    decision_model_simulation_duration = run_simulations(all_sugarscape_seeds, q)
+    all_simulations_time = 0
+    for key in decision_model_simulation_duration.keys():
+        all_simulations_time += decision_model_simulation_duration[key]
+        single_model_avg_time = decision_model_simulation_duration[key] / float(number_of_seeds)
+        print(f"Decision model {key} took {decision_model_simulation_duration[key]} seconds to run, with an average of {single_model_avg_time} seconds")
+    average_duration_per_simulation = all_simulations_time / (float(number_of_seeds) * len(decision_model_simulation_duration.keys()))
+    print("Sugarscape took {} seconds to run in total. Each task on an average took {} seconds".format(all_simulations_time, average_duration_per_simulation))
     sys.exit(0)
     
