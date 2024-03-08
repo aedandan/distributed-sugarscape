@@ -16,6 +16,3 @@ if __name__ == "__main__":
         subprocess.run(["work_queue_factory", "-T", batch_type, "-M", manager_name, "-w", "10", "-W", "50", "--workers-per-cycle", "10"])
     else:
         print(f"Batch type {batch_type} not supported yet. Please choose between condor and slurm")
-
-
-print("THIS IS A TEST.")
