@@ -2,10 +2,10 @@
     "__README__": "Default values for helper scripts. Details can be found in the README.",
     "dataCollectionOptions": {
         "bashAlias": "bash",
-        "decisionModels": ["benthamHalfLookaheadBinary", "altruisticHalfLookaheadTop"],
+        "decisionModels": ["altruisticHalfLookaheadBinary", "altruisticHalfLookaheadTop", "benthamHalfLookaheadBinary", "benthamHalfLookaheadTop", "benthamNoLookaheadBinary", "benthamNoLookaheadTop", "egoisticHalfLookaheadBinary", "egoisticHalfLookaheadTop", "none", "rawSugarscape"],
         "jobUpdateFrequency": 5,
         "numParallelSimJobs": 1,
-        "numSeeds": 10,
+        "numSeeds": 50,
         "plots": ["population", "meanttl", "starvationCombat", "wealth", "wealthNormalized", "meanAgeAtDeath"],
         "plotTimesteps": 1000,
         "pythonAlias": "python"

@@ -1,7 +1,7 @@
 #! /usr/bin/python
 
-import agent
 import cell
+import agent
 import disease
 import environment
 import ethics

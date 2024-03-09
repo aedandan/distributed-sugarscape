@@ -39,13 +39,13 @@ def run_simulations(seed_groups: Dict[str, List[str]], wq: WorkQueue) :
     for file in all_decision_models:
         command = f"python3 sugarscape.py --conf {file}.config > {file}.json"
         task = WorkQueue.Task(command)
-        task.specify_input_file("../sugarscape.py", "sugarscape.py", cache = True)
-        task.specify_input_file(f"../data/{file}.config", f"{file}.config", cache = True)
-        task.specify_input_file(f"../agent.py", "agent.py", cache = True)
-        task.specify_input_file(f"../disease.py", "disease.py", cache = True)
-        task.specify_input_file(f"../cell.py", "cell.py", cache = True)
-        task.specify_input_file(f"../environment.py", "environment.py", cache = True)
-        task.specify_input_file(f"../ethics.py", "ethics.py", cache = True)
+        task.specify_input_file("../sugarscape.py", "sugarscape.py", cache = False)
+        task.specify_input_file(f"../data/{file}.config", f"{file}.config", cache = False)
+        task.specify_input_file(f"../agent.py", "agent.py", cache = False)
+        task.specify_input_file(f"../disease.py", "disease.py", cache = False)
+        task.specify_input_file(f"../cell.py", "cell.py", cache = False)
+        task.specify_input_file(f"../environment.py", "environment.py", cache = False)
+        task.specify_input_file(f"../ethics.py", "ethics.py", cache = False)
         task.specify_output_file(f"{file}.json", f"{file}.json", cache = False)
         task.specify_tag(file)
         print(f"Task submitted: python3 sugarscape.py --conf {file}.config\n")
@@ -54,7 +54,7 @@ def run_simulations(seed_groups: Dict[str, List[str]], wq: WorkQueue) :
     while not wq.empty():
         t = wq.wait()
         if t:
-            print("Task {} has returned!".format(t.id))
+            print("Task {} has returned!".format(t.tag))
             print(f"Task has returned with status {t.return_status}")
             print(f"output is {t.output}")
             if t.return_status == 0:
