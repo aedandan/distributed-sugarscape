@@ -7,6 +7,8 @@ import time
 import getopt
 from typing import List
 from typing import Dict
+
+
 def getSeeds() -> Dict[str, List[str]]:
     all_files = os.listdir("{}/data".format(os.getcwd()))
     seeds_list = [file for file in all_files if file.endswith(".config")]
@@ -23,6 +25,7 @@ def getSeeds() -> Dict[str, List[str]]:
 def interruptHandler(signal, frame):
     print("Keyboard Interrupt Read! Shutting down...")
     sys.exit(0)
+
 # Function that times runs of a decision model based on the list of seeds passed in
 def timeSeeds(seeds: List[str], wq: WorkQueue) -> float:
     jobs_start = time.time()
@@ -54,6 +57,7 @@ def timeSeeds(seeds: List[str], wq: WorkQueue) -> float:
             print("No task generated.")
     jobs_end = time.time() - jobs_start
     return jobs_end
+
 def readCommandLineArguments() -> int:
     commandLineArgs = sys.argv[1:]
     short_options = 's:'
@@ -65,7 +69,6 @@ def readCommandLineArguments() -> int:
         printUsage()
     if len(arguments) != 1 or arguments[0][0] not in("-s", "--seeds"):
         printUsage()
-    print(arguments)
     return arguments[0][1]
 
 def printUsage():
@@ -81,7 +84,6 @@ if __name__ == "__main__":
 
     all_sugarscape_seeds = getSeeds()
     number_of_seeds = readCommandLineArguments()
-    print(number_of_seeds)
     decision_model_times = {}
     total_decision_model_time = 0
     for decision_model in all_sugarscape_seeds:

@@ -14,7 +14,6 @@ def getSeeds() -> Dict[str, List[str]]:
     all_files = os.listdir("{}/data".format(os.getcwd()))
 
     seeds_list = [file for file in all_files if file.endswith(".config")]
-    print(seeds_list)
     seed_groups: Dict[str, List[str]] = {}
     for seed in seeds_list:
         seed_trimmed = seed.split('.')[0]
