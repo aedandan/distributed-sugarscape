@@ -1,6 +1,25 @@
 DISTRIBUTED SUGARSCAPE
 
-Python implementation of a Work Queue manager-worker application using Work Queue's API. 
+A distributed version of Sugarscape introduced in Growing Artificial Societies (1996) by Epstein and Axtell as written by Dr. Nate Kremer-Herman and their collaborators:
+
+Copyright:
+Nate Kremer-Herman, Seattle University
+
+Contributors:
+Ankur Gupta
+Colin Hanrahan
+Willem Hueffed
+Nate Kremer-Herman
+Maria Milkowski
+Joshua Palicka
+Mariana Shuman
+Lucas Vorkoper
+
+Attribution:
+Herve Lange (https://github.com/langerv/sugarscape)
+Joshua Palicka (https://github.com/joshuapalicka/sugarscape)
+
+This program is a Python implementation of a Work Queue manager-worker application using Work Queue's API bindings. 
 
 Requirements:
 Bash
@@ -30,7 +49,7 @@ conda create -n cctools-env -y -c conda-forge --strict-channel-priority python n
 
 conda activate cctools-env 
 
-Alternatively, or run the assocated Make command specified later in this document
+Alternatively, run the assocated Make command specified later in this document. If that command fails, these commands are confirmed to work when run individually.
 
 Note: the last line above is required once every session to establish the cctools environment and guarantee correct behavior.
 
@@ -43,6 +62,20 @@ Or similar git clone command for HTTPS.
 
 When all of the above are installed, move the folders "work_queue_manager"
 and "WQ_Factory" into the top level directory of Sugarscape.
+
+Deployment:
+
+The manager program cannot spin up Work Queue workers on its own. It requires a login on a separate endpoint where HTCondor or SLURM are installed. Once logged into an endpoint of this nature, run the associated Make command for activating workers. 
+
+Once workers are active, use the following instructions to determine how best to run the program.
+
+To run the Python script that activates the Work Queue manager process and submit tasks to live work queue workers (assuming they are already active):
+
+python3 SugarscapeFactory.py -s [the number of seeds per decision model] > [name of your output file]
+
+Where the number of seeds per decision model is number specified in the Sugarscape config.json file. These must match in order to produce accurate timing data for the program.
+
+Alternatively, confirm that the number of seeds specified in the Sugarscape config.json file is 50 and simply run the "make distributed_data" command specified above.
 
 Makefile Options:
 
@@ -62,8 +95,8 @@ make install_conda
 make install_cctools
     Run the CCTools installation commands as specified above.
 
-To run the Python script that activates the Work Queue manager process and submit tasks to live work queue workers (assuming they are already active) run:
+make distributed_data
+    Run the Python script that submits tasks to live Work Queue workers. Note that this command redirects all output to the associated output file provided in the makefile. If seeing output to the console is desired, run the Makefile option labeled "distributed_data_console".
 
-python3 SugarscapeFactory.py -s [the number of seeds per decision model]
-
-Where the number of seeds per decision model is number specified in the Sugarscape config.json file. These must match in order to produce accurate timing data for the program.
+make distributed_data_console
+    Run the Python script that submits tasks to live Work Queue workers. Note that this command prints all output to the console. If saving output to a file is desired, run the Makefile option labeled "distributed_data".

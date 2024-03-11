@@ -1,6 +1,8 @@
 CONFIG = config.json
 DATACHECK = data/data.complete
 PLOTCHECK = plots/plots.complete
+DISTRIBUTED_OUTPUT = sugarscape_distributed_timing.txt
+CONDA_ACTIVATE = source $$(conda info --base)/etc/profile.d/conda.sh ; conda activate ; conda activate
 
 DATASET = $(DATACHECK) \
 		data/*[[:digit:]]*.config \
@@ -14,7 +16,9 @@ PLOTS = $(PLOTCHECK) \
 
 CLEAN = log.json \
 		$(DATASET) \
-		$(PLOTS)
+		$(PLOTS) \
+		$(DISTRIBUTED_OUTPUT)
+
 
 # Change to python3 (or other alias) if needed
 PYTHON = python
@@ -63,7 +67,12 @@ install_conda:
 
 install_cctools:
 	conda create -n cctools-env -y -c conda-forge --strict-channel-priority python ndcctools
-	conda activate cctools-env
+
+cctools_env: install_cctools
+	$(CONDA_ACTIVATE) cctools-env
+
+distributed_data: seeds cctools_env
+	python3 SugarscapeFactory.py -s 50 > $(DISTRIBUTED_OUTPUT)
 
 setup:
 	@echo "Checking for local Bash and Python installations."

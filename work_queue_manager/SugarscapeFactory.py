@@ -14,7 +14,7 @@ def getSeeds() -> Dict[str, List[str]]:
     all_files = os.listdir("{}/../data".format(os.getcwd()))
 
     seeds_list = [file for file in all_files if file.endswith(".config")]
-    print(seeds_list)
+    print("All seeds: ", seeds_list)
     seed_groups: Dict[str, List[str]] = {}
     for seed in seeds_list:
         seed_trimmed = seed.split('.')[0]
@@ -106,9 +106,7 @@ if __name__ == "__main__":
 
     all_sugarscape_seeds = getSeeds()
     number_of_seeds = readCommandLineArguments()
-    print(number_of_seeds)
     decision_model_times = {}
-    #decision_model_simulation_duration = timeSeeds(all_sugarscape_seeds[decision_model], q)
     decision_model_simulation_duration = run_simulations(all_sugarscape_seeds, q)
     all_simulations_time = 0
     for key in decision_model_simulation_duration.keys():
