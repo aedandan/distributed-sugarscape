@@ -75,6 +75,8 @@ python3 SugarscapeFactory.py -s [the number of seeds per decision model] > [name
 
 Where the number of seeds per decision model is number specified in the Sugarscape config.json file. These must match in order to produce accurate timing data for the program.
 
+If there are issues with Work Queue commands not getting recognized, please confirm that cctools was installed correctly and that the env is set to "cctools-env".
+
 Alternatively, confirm that the number of seeds specified in the Sugarscape config.json file is 50 and simply run the "make distributed_data" command specified above.
 
 Makefile Options:

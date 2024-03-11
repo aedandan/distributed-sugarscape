@@ -74,6 +74,9 @@ cctools_env: install_cctools
 distributed_data: seeds cctools_env
 	python3 SugarscapeFactory.py -s 50 > $(DISTRIBUTED_OUTPUT)
 
+distributed_data_console: seeds cctools_env
+	python3 SugarscapeFactory.py -s 50
+
 setup:
 	@echo "Checking for local Bash and Python installations."
 ifneq ($(BASHCHECK), 0)

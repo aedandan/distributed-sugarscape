@@ -88,7 +88,6 @@ def readCommandLineArguments() -> int:
         printUsage()
     if len(arguments) != 1 or arguments[0][0] not in("-s", "--seeds"):
         printUsage()
-    print(arguments)
     return arguments[0][1]
 
 def printUsage():
