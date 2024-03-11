@@ -74,6 +74,8 @@ def run_simulations(seed_groups: Dict[str, List[str]], wq: WorkQueue) :
                 else:
                     time_dictionary[decision_model] = jobs_end
                 
+    all_end = time.time() - jobs_start
+    print(f"Sugarscape took {all_end} seconds to run. EACH JOB TOOK {all_end/700} seconds")
     return time_dictionary
 
 
