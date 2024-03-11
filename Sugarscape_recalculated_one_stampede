@@ -1,0 +1,4519 @@
+['none7168583151394845171.config', 'altruisticHalfLookaheadTop4761468639299093895.config', 'altruisticHalfLookaheadBinary7210177440093559350.config', 'altruisticHalfLookaheadBinary2683906888555832761.config', 'rawSugarscape2524957222845957811.config', 'altruisticHalfLookaheadTop1777355641411242344.config', 'benthamHalfLookaheadTop4127832298716905102.config', 'altruisticHalfLookaheadTop7736221014726061.config', 'benthamNoLookaheadBinary3742233277443349621.config', 'altruisticHalfLookaheadBinary2099359078978234933.config', 'rawSugarscape1241903320999427861.config', 'egoisticHalfLookaheadTop4860077078095449656.config', 'egoisticHalfLookaheadTop3742233277443349621.config', 'benthamNoLookaheadBinary4860077078095449656.config', 'rawSugarscape6044776902952207464.config', 'benthamNoLookaheadTop8860126579032750928.config', 'benthamNoLookaheadTop4721284316083414681.config', 'rawSugarscape2940251435392152967.config', 'egoisticHalfLookaheadTop2940251435392152967.config', 'benthamNoLookaheadBinary6044776902952207464.config', 'benthamNoLookaheadTop6661880599268351123.config', 'benthamNoLookaheadBinary2940251435392152967.config', 'egoisticHalfLookaheadTop6044776902952207464.config', 'benthamHalfLookaheadTop7168583151394845171.config', 'benthamNoLookaheadBinary1241903320999427861.config', 'benthamHalfLookaheadBinary117160539193500786.config', 'rawSugarscape3742233277443349621.config', 'egoisticHalfLookaheadTop1241903320999427861.config', 'rawSugarscape4860077078095449656.config', 'none4127832298716905102.config', 'benthamHalfLookaheadBinary7959744987556945855.config', 'benthamNoLookaheadTop147926123065923924.config', 'altruisticHalfLookaheadBinary4361812259721478186.config', 'altruisticHalfLookaheadBinary7917538569782475884.config', 'egoisticHalfLookaheadTop2524957222845957811.config', 'benthamHalfLookaheadTop147926123065923924.config', 'benthamNoLookaheadBinary2524957222845957811.config', 'benthamNoLookaheadTop7959744987556945855.config', 'altruisticHalfLookaheadBinary1777355641411242344.config', 'none2524957222845957811.config', 'benthamHalfLookaheadTop471615169710421148.config', 'rawSugarscape7168583151394845171.config', 'altruisticHalfLookaheadTop7210177440093559350.config', 'benthamNoLookaheadTop471615169710421148.config', 'benthamHalfLookaheadTop3742233277443349621.config', 'altruisticHalfLookaheadBinary4761468639299093895.config', 'benthamHalfLookaheadTop4860077078095449656.config', 'altruisticHalfLookaheadTop2683906888555832761.config', 'altruisticHalfLookaheadBinary7736221014726061.config', 'benthamNoLookaheadBinary4127832298716905102.config', 'benthamHalfLookaheadBinary6661880599268351123.config', 'none1241903320999427861.config', 'egoisticHalfLookaheadTop4127832298716905102.config', 'none2940251435392152967.config', 'altruisticHalfLookaheadTop2099359078978234933.config', 'benthamNoLookaheadBinary237765043109750098.config', 'none6044776902952207464.config', 'altruisticHalfLookaheadBinary237765043109750098.config', 'benthamHalfLookaheadTop2524957222845957811.config', 'rawSugarscape4127832298716905102.config', 'none4860077078095449656.config', 'benthamHalfLookaheadBinary8860126579032750928.config', 'benthamHalfLookaheadBinary4721284316083414681.config', 'none3742233277443349621.config', 'altruisticHalfLookaheadTop7917538569782475884.config', 'benthamHalfLookaheadTop1241903320999427861.config', 'altruisticHalfLookaheadTop4361812259721478186.config', 'egoisticHalfLookaheadTop7168583151394845171.config', 'benthamHalfLookaheadTop6044776902952207464.config', 'benthamNoLookaheadBinary7168583151394845171.config', 'benthamHalfLookaheadTop2940251435392152967.config', 'altruisticHalfLookaheadTop3049702594975484309.config', 'egoisticHalfLookaheadBinary1568223682735902243.config', 'benthamHalfLookaheadTop5205530532251807200.config', 'altruisticHalfLookaheadBinary147926123065923924.config', 'egoisticHalfLookaheadTop1543350631652756419.config', 'altruisticHalfLookaheadTop1409780641379957992.config', 'altruisticHalfLookaheadTop5761813644487094105.config', 'benthamNoLookaheadBinary1543350631652756419.config', 'egoisticHalfLookaheadTop2906609257724749751.config', 'none4542019987027503046.config', 'benthamHalfLookaheadTop6637307386003099079.config', 'benthamNoLookaheadBinary2906609257724749751.config', 'rawSugarscape6439604057363447949.config', 'none5400829736526864273.config', 'altruisticHalfLookaheadTop2151872910392376880.config', 'benthamHalfLookaheadTop1058681665675655863.config', 'benthamHalfLookaheadTop1604313069444948088.config', 'egoisticHalfLookaheadBinary5808420058164200984.config', 'benthamNoLookaheadTop6124739302321782041.config', 'none5205530532251807200.config', 'benthamNoLookaheadTop7417664570281472702.config', 'egoisticHalfLookaheadTop6439604057363447949.config', 'rawSugarscape2906609257724749751.config', 'altruisticHalfLookaheadTop166361872751108421.config', 'benthamNoLookaheadBinary6439604057363447949.config', 'egoisticHalfLookaheadBinary1491306935191447069.config', 'benthamHalfLookaheadTop5400829736526864273.config', 'benthamNoLookaheadBinary147926123065923924.config', 'altruisticHalfLookaheadTop7529412210496690814.config', 'none6637307386003099079.config', 'benthamHalfLookaheadTop4542019987027503046.config', 'rawSugarscape1543350631652756419.config', 'benthamHalfLookaheadBinary4238125538466010306.config', 'none1604313069444948088.config', 'egoisticHalfLookaheadBinary8466127710183569683.config', 'none1058681665675655863.config', 'altruisticHalfLookaheadBinary1409780641379957992.config', 'egoisticHalfLookaheadTop1604313069444948088.config', 'benthamNoLookaheadBinary1058681665675655863.config', 'egoisticHalfLookaheadBinary6566182929173042454.config', 'altruisticHalfLookaheadBinary5761813644487094105.config', 'benthamNoLookaheadBinary1604313069444948088.config', 'egoisticHalfLookaheadTop1058681665675655863.config', 'benthamNoLookaheadTop4238125538466010306.config', 'benthamNoLookaheadBinary6637307386003099079.config', 'benthamNoLookaheadBinary471615169710421148.config', 'altruisticHalfLookaheadBinary3049702594975484309.config', 'egoisticHalfLookaheadBinary4768712482326898506.config', 'egoisticHalfLookaheadTop6637307386003099079.config', 'benthamHalfLookaheadTop2906609257724749751.config', 'egoisticHalfLookaheadBinary8507733795828668790.config', 'benthamHalfLookaheadBinary6124739302321782041.config', 'rawSugarscape5400829736526864273.config', 'none6439604057363447949.config', 'benthamHalfLookaheadBinary7417664570281472702.config', 'rawSugarscape4542019987027503046.config', 'benthamHalfLookaheadTop237765043109750098.config', 'benthamHalfLookaheadTop1543350631652756419.config', 'benthamNoLookaheadTop237765043109750098.config', 'egoisticHalfLookaheadTop5205530532251807200.config', 'altruisticHalfLookaheadBinary2151872910392376880.config', 'benthamNoLookaheadBinary5205530532251807200.config', 'rawSugarscape5205530532251807200.config', 'none117160539193500786.config', 'none2906609257724749751.config', 'egoisticHalfLookaheadTop4542019987027503046.config', 'benthamNoLookaheadBinary5400829736526864273.config', 'egoisticHalfLookaheadTop5400829736526864273.config', 'benthamNoLookaheadBinary4542019987027503046.config', 'none1543350631652756419.config', 'altruisticHalfLookaheadBinary471615169710421148.config', 'rawSugarscape6637307386003099079.config', 'egoisticHalfLookaheadBinary8403919379409134612.config', 'benthamHalfLookaheadTop6439604057363447949.config', 'rawSugarscape1058681665675655863.config', 'altruisticHalfLookaheadBinary7529412210496690814.config', 'rawSugarscape1604313069444948088.config', 'benthamNoLookaheadTop7917538569782475884.config', 'benthamHalfLookaheadBinary4761468639299093895.config', 'egoisticHalfLookaheadBinary7168583151394845171.config', 'benthamNoLookaheadTop4361812259721478186.config', 'benthamHalfLookaheadBinary1777355641411242344.config', 'altruisticHalfLookaheadBinary117160539193500786.config', 'none471615169710421148.config', 'altruisticHalfLookaheadBinary6661880599268351123.config', 'benthamNoLookaheadBinary7736221014726061.config', 'altruisticHalfLookaheadBinary4721284316083414681.config', 'altruisticHalfLookaheadBinary8860126579032750928.config', 'egoisticHalfLookaheadBinary4127832298716905102.config', 'benthamNoLookaheadTop2099359078978234933.config', 'altruisticHalfLookaheadTop7959744987556945855.config', 'benthamNoLookaheadBinary117160539193500786.config', 'benthamNoLookaheadTop7210177440093559350.config', 'egoisticHalfLookaheadBinary166361872751108421.config', 'benthamNoLookaheadTop2683906888555832761.config', 'egoisticHalfLookaheadBinary2524957222845957811.config', 'benthamHalfLookaheadBinary237765043109750098.config', 'benthamHalfLookaheadBinary7210177440093559350.config', 'benthamHalfLookaheadBinary2683906888555832761.config', 'altruisticHalfLookaheadTop6661880599268351123.config', 'egoisticHalfLookaheadBinary1241903320999427861.config', 'egoisticHalfLookaheadBinary6044776902952207464.config', 'egoisticHalfLookaheadTop166361872751108421.config', 'benthamHalfLookaheadBinary2099359078978234933.config', 'egoisticHalfLookaheadBinary2940251435392152967.config', 'egoisticHalfLookaheadBinary3742233277443349621.config', 'egoisticHalfLookaheadBinary4860077078095449656.config', 'none147926123065923924.config', 'altruisticHalfLookaheadTop4721284316083414681.config', 'altruisticHalfLookaheadTop8860126579032750928.config', 'benthamHalfLookaheadBinary7917538569782475884.config', 'benthamNoLookaheadTop4761468639299093895.config', 'altruisticHalfLookaheadBinary7959744987556945855.config', 'benthamHalfLookaheadBinary4361812259721478186.config', 'benthamNoLookaheadTop1777355641411242344.config', 'benthamHalfLookaheadBinary3049702594975484309.config', 'none1568223682735902243.config', 'rawSugarscape6566182929173042454.config', 'none237765043109750098.config', 'benthamHalfLookaheadBinary1409780641379957992.config', 'egoisticHalfLookaheadTop8403919379409134612.config', 'benthamNoLookaheadBinary8403919379409134612.config', 'rawSugarscape8507733795828668790.config', 'rawSugarscape4768712482326898506.config', 'benthamHalfLookaheadBinary5761813644487094105.config', 'benthamHalfLookaheadTop1491306935191447069.config', 'egoisticHalfLookaheadBinary5400829736526864273.config', 'benthamHalfLookaheadBinary2151872910392376880.config', 'egoisticHalfLookaheadBinary4542019987027503046.config', 'altruisticHalfLookaheadBinary6124739302321782041.config', 'benthamHalfLookaheadTop8466127710183569683.config', 'none5808420058164200984.config', 'altruisticHalfLookaheadBinary7417664570281472702.config', 'benthamHalfLookaheadTop1568223682735902243.config', 'egoisticHalfLookaheadBinary5205530532251807200.config', 'benthamHalfLookaheadBinary147926123065923924.config', 'benthamHalfLookaheadBinary7529412210496690814.config', 'egoisticHalfLookaheadTop4768712482326898506.config', 'egoisticHalfLookaheadBinary6637307386003099079.config', 'egoisticHalfLookaheadTop8507733795828668790.config', 'benthamNoLookaheadBinary4768712482326898506.config', 'none1491306935191447069.config', 'benthamNoLookaheadTop117160539193500786.config', 'benthamNoLookaheadBinary8507733795828668790.config', 'rawSugarscape8403919379409134612.config', 'benthamHalfLookaheadTop117160539193500786.config', 'egoisticHalfLookaheadTop6566182929173042454.config', 'egoisticHalfLookaheadBinary1058681665675655863.config', 'altruisticHalfLookaheadTop4238125538466010306.config', 'benthamNoLookaheadBinary6566182929173042454.config', 'benthamHalfLookaheadTop5808420058164200984.config', 'rawSugarscape166361872751108421.config', 'egoisticHalfLookaheadBinary1604313069444948088.config', 'none8466127710183569683.config', 'benthamNoLookaheadTop7529412210496690814.config', 'none6566182929173042454.config', 'rawSugarscape1568223682735902243.config', 'benthamNoLookaheadBinary8466127710183569683.config', 'egoisticHalfLookaheadTop8466127710183569683.config', 'none4768712482326898506.config', 'benthamNoLookaheadBinary1491306935191447069.config', 'none8507733795828668790.config', 'egoisticHalfLookaheadTop1491306935191447069.config', 'altruisticHalfLookaheadTop6124739302321782041.config', 'benthamHalfLookaheadBinary471615169710421148.config', 'benthamHalfLookaheadTop8403919379409134612.config', 'egoisticHalfLookaheadBinary6439604057363447949.config', 'altruisticHalfLookaheadTop7417664570281472702.config', 'rawSugarscape5808420058164200984.config', 'egoisticHalfLookaheadTop5808420058164200984.config', 'benthamNoLookaheadTop2151872910392376880.config', 'benthamNoLookaheadBinary5808420058164200984.config', 'benthamHalfLookaheadTop6566182929173042454.config', 'egoisticHalfLookaheadBinary2906609257724749751.config', 'benthamHalfLookaheadTop8507733795828668790.config', 'benthamHalfLookaheadTop4768712482326898506.config', 'none8403919379409134612.config', 'altruisticHalfLookaheadBinary4238125538466010306.config', 'rawSugarscape1491306935191447069.config', 'benthamNoLookaheadTop3049702594975484309.config', 'egoisticHalfLookaheadBinary1543350631652756419.config', 'benthamNoLookaheadTop1409780641379957992.config', 'rawSugarscape8466127710183569683.config', 'benthamNoLookaheadBinary1568223682735902243.config', 'egoisticHalfLookaheadTop1568223682735902243.config', 'benthamNoLookaheadTop5761813644487094105.config', 'benthamHalfLookaheadTop7917538569782475884.config', 'none166361872751108421.config', 'altruisticHalfLookaheadTop1241903320999427861.config', 'egoisticHalfLookaheadBinary6661880599268351123.config', 'benthamHalfLookaheadTop4361812259721478186.config', 'altruisticHalfLookaheadTop6044776902952207464.config', 'none2099359078978234933.config', 'altruisticHalfLookaheadTop2940251435392152967.config', 'rawSugarscape4761468639299093895.config', 'rawSugarscape7736221014726061.config', 'altruisticHalfLookaheadTop2524957222845957811.config', 'none2683906888555832761.config', 'rawSugarscape1777355641411242344.config', 'altruisticHalfLookaheadBinary7168583151394845171.config', 'none7210177440093559350.config', 'benthamHalfLookaheadBinary7736221014726061.config', 'benthamNoLookaheadBinary1777355641411242344.config', 'none7917538569782475884.config', 'egoisticHalfLookaheadTop1777355641411242344.config', 'benthamHalfLookaheadTop2099359078978234933.config', 'benthamNoLookaheadBinary4761468639299093895.config', 'egoisticHalfLookaheadBinary471615169710421148.config', 'egoisticHalfLookaheadTop4761468639299093895.config', 'none4361812259721478186.config', 'altruisticHalfLookaheadBinary4127832298716905102.config', 'egoisticHalfLookaheadTop147926123065923924.config', 'benthamHalfLookaheadTop7210177440093559350.config', 'altruisticHalfLookaheadTop3742233277443349621.config', 'rawSugarscape237765043109750098.config', 'altruisticHalfLookaheadTop4860077078095449656.config', 'egoisticHalfLookaheadBinary8860126579032750928.config', 'egoisticHalfLookaheadBinary4721284316083414681.config', 'benthamHalfLookaheadTop2683906888555832761.config', 'altruisticHalfLookaheadBinary6044776902952207464.config', 'altruisticHalfLookaheadBinary2940251435392152967.config', 'altruisticHalfLookaheadTop117160539193500786.config', 'rawSugarscape2099359078978234933.config', 'altruisticHalfLookaheadBinary1241903320999427861.config', 'egoisticHalfLookaheadTop471615169710421148.config', 'benthamNoLookaheadBinary4361812259721478186.config', 'egoisticHalfLookaheadTop4361812259721478186.config', 'none4761468639299093895.config', 'egoisticHalfLookaheadBinary147926123065923924.config', 'altruisticHalfLookaheadTop7168583151394845171.config', 'rawSugarscape7210177440093559350.config', 'benthamNoLookaheadBinary7917538569782475884.config', 'egoisticHalfLookaheadTop7917538569782475884.config', 'altruisticHalfLookaheadBinary2524957222845957811.config', 'rawSugarscape2683906888555832761.config', 'none1777355641411242344.config', 'egoisticHalfLookaheadTop2683906888555832761.config', 'egoisticHalfLookaheadBinary7959744987556945855.config', 'benthamNoLookaheadBinary7210177440093559350.config', 'rawSugarscape7917538569782475884.config', 'benthamNoLookaheadBinary2683906888555832761.config', 'egoisticHalfLookaheadTop7210177440093559350.config', 'rawSugarscape4361812259721478186.config', 'benthamHalfLookaheadTop4761468639299093895.config', 'altruisticHalfLookaheadBinary3742233277443349621.config', 'benthamNoLookaheadBinary2099359078978234933.config', 'altruisticHalfLookaheadBinary4860077078095449656.config', 'egoisticHalfLookaheadTop2099359078978234933.config', 'benthamHalfLookaheadTop1777355641411242344.config', 'altruisticHalfLookaheadTop4127832298716905102.config', 'egoisticHalfLookaheadBinary7736221014726061.config', 'egoisticHalfLookaheadBinary6124739302321782041.config', 'altruisticHalfLookaheadTop6439604057363447949.config', 'egoisticHalfLookaheadBinary7417664570281472702.config', 'rawSugarscape2151872910392376880.config', 'altruisticHalfLookaheadBinary5400829736526864273.config', 'altruisticHalfLookaheadBinary4542019987027503046.config', 'benthamNoLookaheadTop1491306935191447069.config', 'rawSugarscape3049702594975484309.config', 'benthamHalfLookaheadBinary6566182929173042454.config', 'benthamNoLookaheadBinary7529412210496690814.config', 'rawSugarscape1409780641379957992.config', 'benthamNoLookaheadTop8466127710183569683.config', 'benthamHalfLookaheadBinary4768712482326898506.config', 'egoisticHalfLookaheadTop7529412210496690814.config', 'rawSugarscape5761813644487094105.config', 'benthamHalfLookaheadBinary8507733795828668790.config', 'benthamNoLookaheadBinary1409780641379957992.config', 'benthamNoLookaheadTop1568223682735902243.config', 'rawSugarscape7529412210496690814.config', 'altruisticHalfLookaheadBinary1058681665675655863.config', 'egoisticHalfLookaheadTop5761813644487094105.config', 'benthamHalfLookaheadBinary8403919379409134612.config', 'egoisticHalfLookaheadTop1409780641379957992.config', 'altruisticHalfLookaheadTop1543350631652756419.config', 'benthamNoLookaheadBinary5761813644487094105.config', 'altruisticHalfLookaheadBinary1604313069444948088.config', 'altruisticHalfLookaheadBinary6637307386003099079.config', 'rawSugarscape471615169710421148.config', 'benthamNoLookaheadBinary3049702594975484309.config', 'egoisticHalfLookaheadTop3049702594975484309.config', 'none7736221014726061.config', 'egoisticHalfLookaheadTop2151872910392376880.config', 'benthamNoLookaheadBinary2151872910392376880.config', 'altruisticHalfLookaheadBinary5205530532251807200.config', 'benthamNoLookaheadTop5808420058164200984.config', 'egoisticHalfLookaheadBinary237765043109750098.config', 'altruisticHalfLookaheadTop2906609257724749751.config', 'none2151872910392376880.config', 'altruisticHalfLookaheadTop5400829736526864273.config', 'benthamHalfLookaheadTop7529412210496690814.config', 'benthamHalfLookaheadBinary166361872751108421.config', 'altruisticHalfLookaheadTop4542019987027503046.config', 'benthamHalfLookaheadBinary5808420058164200984.config', 'altruisticHalfLookaheadBinary6439604057363447949.config', 'benthamHalfLookaheadBinary1568223682735902243.config', 'rawSugarscape147926123065923924.config', 'benthamNoLookaheadTop8403919379409134612.config', 'none3049702594975484309.config', 'none5761813644487094105.config', 'none1409780641379957992.config', 'egoisticHalfLookaheadTop237765043109750098.config', 'benthamHalfLookaheadBinary1491306935191447069.config', 'altruisticHalfLookaheadTop6637307386003099079.config', 'benthamNoLookaheadTop6566182929173042454.config', 'none7529412210496690814.config', 'benthamHalfLookaheadTop2151872910392376880.config', 'egoisticHalfLookaheadBinary4238125538466010306.config', 'altruisticHalfLookaheadTop1058681665675655863.config', 'benthamHalfLookaheadBinary8466127710183569683.config', 'altruisticHalfLookaheadBinary1543350631652756419.config', 'benthamNoLookaheadTop4768712482326898506.config', 'altruisticHalfLookaheadTop1604313069444948088.config', 'benthamNoLookaheadTop8507733795828668790.config', 'benthamHalfLookaheadTop3049702594975484309.config', 'altruisticHalfLookaheadTop5205530532251807200.config', 'altruisticHalfLookaheadBinary2906609257724749751.config', 'benthamHalfLookaheadTop1409780641379957992.config', 'benthamHalfLookaheadTop5761813644487094105.config', 'benthamHalfLookaheadBinary1241903320999427861.config', 'none6661880599268351123.config', 'benthamHalfLookaheadBinary6044776902952207464.config', 'benthamNoLookaheadTop4127832298716905102.config', 'egoisticHalfLookaheadBinary2099359078978234933.config', 'benthamHalfLookaheadBinary2940251435392152967.config', 'benthamHalfLookaheadBinary2524957222845957811.config', 'benthamNoLookaheadBinary7959744987556945855.config', 'egoisticHalfLookaheadBinary7210177440093559350.config', 'egoisticHalfLookaheadBinary2683906888555832761.config', 'egoisticHalfLookaheadTop7959744987556945855.config', 'benthamHalfLookaheadTop8860126579032750928.config', 'benthamHalfLookaheadTop4721284316083414681.config', 'egoisticHalfLookaheadBinary7917538569782475884.config', 'benthamHalfLookaheadTop6661880599268351123.config', 'rawSugarscape7959744987556945855.config', 'benthamNoLookaheadTop7168583151394845171.config', 'egoisticHalfLookaheadBinary4361812259721478186.config', 'altruisticHalfLookaheadTop237765043109750098.config', 'none4721284316083414681.config', 'none8860126579032750928.config', 'benthamHalfLookaheadBinary3742233277443349621.config', 'benthamHalfLookaheadTop7736221014726061.config', 'benthamHalfLookaheadBinary4860077078095449656.config', 'egoisticHalfLookaheadTop4721284316083414681.config', 'egoisticHalfLookaheadTop8860126579032750928.config', 'rawSugarscape6661880599268351123.config', 'benthamHalfLookaheadTop7959744987556945855.config', 'benthamNoLookaheadBinary4721284316083414681.config', 'benthamNoLookaheadBinary8860126579032750928.config', 'benthamNoLookaheadTop3742233277443349621.config', 'benthamNoLookaheadTop4860077078095449656.config', 'egoisticHalfLookaheadBinary4761468639299093895.config', 'benthamHalfLookaheadTop166361872751108421.config', 'benthamNoLookaheadTop7736221014726061.config', 'benthamHalfLookaheadBinary7168583151394845171.config', 'rawSugarscape117160539193500786.config', 'egoisticHalfLookaheadBinary1777355641411242344.config', 'benthamNoLookaheadTop166361872751108421.config', 'none7959744987556945855.config', 'benthamNoLookaheadTop2524957222845957811.config', 'benthamNoLookaheadTop1241903320999427861.config', 'benthamNoLookaheadTop6044776902952207464.config', 'benthamHalfLookaheadBinary4127832298716905102.config', 'benthamNoLookaheadBinary6661880599268351123.config', 'benthamNoLookaheadTop2940251435392152967.config', 'rawSugarscape8860126579032750928.config', 'rawSugarscape4721284316083414681.config', 'egoisticHalfLookaheadTop6661880599268351123.config', 'none7417664570281472702.config', 'none6124739302321782041.config', 'altruisticHalfLookaheadBinary5808420058164200984.config', 'benthamNoLookaheadTop5205530532251807200.config', 'benthamHalfLookaheadBinary6439604057363447949.config', 'benthamNoLookaheadBinary4238125538466010306.config', 'benthamNoLookaheadTop6637307386003099079.config', 'egoisticHalfLookaheadTop4238125538466010306.config', 'altruisticHalfLookaheadTop6566182929173042454.config', 'altruisticHalfLookaheadBinary1568223682735902243.config', 'benthamNoLookaheadTop1058681665675655863.config', 'altruisticHalfLookaheadTop8507733795828668790.config', 'benthamNoLookaheadTop1604313069444948088.config', 'altruisticHalfLookaheadTop4768712482326898506.config', 'altruisticHalfLookaheadBinary8466127710183569683.config', 'benthamHalfLookaheadTop6124739302321782041.config', 'benthamHalfLookaheadBinary1543350631652756419.config', 'benthamHalfLookaheadTop7417664570281472702.config', 'altruisticHalfLookaheadTop8403919379409134612.config', 'altruisticHalfLookaheadBinary1491306935191447069.config', 'rawSugarscape4238125538466010306.config', 'egoisticHalfLookaheadTop117160539193500786.config', 'benthamNoLookaheadTop5400829736526864273.config', 'benthamNoLookaheadTop4542019987027503046.config', 'altruisticHalfLookaheadTop471615169710421148.config', 'egoisticHalfLookaheadTop7736221014726061.config', 'benthamHalfLookaheadBinary2906609257724749751.config', 'altruisticHalfLookaheadTop147926123065923924.config', 'rawSugarscape6124739302321782041.config', 'benthamHalfLookaheadBinary5400829736526864273.config', 'egoisticHalfLookaheadBinary2151872910392376880.config', 'rawSugarscape7417664570281472702.config', 'benthamHalfLookaheadBinary4542019987027503046.config', 'benthamHalfLookaheadTop4238125538466010306.config', 'benthamNoLookaheadTop2906609257724749751.config', 'altruisticHalfLookaheadTop5808420058164200984.config', 'egoisticHalfLookaheadBinary117160539193500786.config', 'altruisticHalfLookaheadTop1568223682735902243.config', 'egoisticHalfLookaheadBinary3049702594975484309.config', 'altruisticHalfLookaheadBinary4768712482326898506.config', 'benthamNoLookaheadTop1543350631652756419.config', 'altruisticHalfLookaheadBinary8507733795828668790.config', 'egoisticHalfLookaheadBinary1409780641379957992.config', 'altruisticHalfLookaheadBinary6566182929173042454.config', 'benthamNoLookaheadBinary166361872751108421.config', 'egoisticHalfLookaheadBinary5761813644487094105.config', 'egoisticHalfLookaheadBinary7529412210496690814.config', 'benthamHalfLookaheadBinary6637307386003099079.config', 'altruisticHalfLookaheadTop1491306935191447069.config', 'altruisticHalfLookaheadBinary166361872751108421.config', 'altruisticHalfLookaheadTop8466127710183569683.config', 'benthamHalfLookaheadBinary1058681665675655863.config', 'none4238125538466010306.config', 'altruisticHalfLookaheadBinary8403919379409134612.config', 'benthamHalfLookaheadBinary1604313069444948088.config', 'benthamHalfLookaheadBinary5205530532251807200.config', 'benthamNoLookaheadTop6439604057363447949.config', 'benthamNoLookaheadBinary6124739302321782041.config', 'egoisticHalfLookaheadTop7417664570281472702.config', 'benthamNoLookaheadBinary7417664570281472702.config', 'egoisticHalfLookaheadTop6124739302321782041.config']
+[('-s', '50')]
+50
+Task submitted: python3 sugarscape.py --conf none7168583151394845171.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop4761468639299093895.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary7210177440093559350.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary2683906888555832761.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape2524957222845957811.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop1777355641411242344.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop4127832298716905102.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop7736221014726061.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary3742233277443349621.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary2099359078978234933.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape1241903320999427861.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop4860077078095449656.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop3742233277443349621.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary4860077078095449656.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape6044776902952207464.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop8860126579032750928.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop4721284316083414681.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape2940251435392152967.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop2940251435392152967.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary6044776902952207464.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop6661880599268351123.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary2940251435392152967.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop6044776902952207464.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop7168583151394845171.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary1241903320999427861.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary117160539193500786.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape3742233277443349621.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop1241903320999427861.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape4860077078095449656.config
+
+Task submitted: python3 sugarscape.py --conf none4127832298716905102.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary7959744987556945855.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop147926123065923924.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary4361812259721478186.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary7917538569782475884.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop2524957222845957811.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop147926123065923924.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary2524957222845957811.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop7959744987556945855.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary1777355641411242344.config
+
+Task submitted: python3 sugarscape.py --conf none2524957222845957811.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop471615169710421148.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape7168583151394845171.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop7210177440093559350.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop471615169710421148.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop3742233277443349621.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary4761468639299093895.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop4860077078095449656.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop2683906888555832761.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary7736221014726061.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary4127832298716905102.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary6661880599268351123.config
+
+Task submitted: python3 sugarscape.py --conf none1241903320999427861.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop4127832298716905102.config
+
+Task submitted: python3 sugarscape.py --conf none2940251435392152967.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop2099359078978234933.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary237765043109750098.config
+
+Task submitted: python3 sugarscape.py --conf none6044776902952207464.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary237765043109750098.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop2524957222845957811.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape4127832298716905102.config
+
+Task submitted: python3 sugarscape.py --conf none4860077078095449656.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary8860126579032750928.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary4721284316083414681.config
+
+Task submitted: python3 sugarscape.py --conf none3742233277443349621.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop7917538569782475884.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop1241903320999427861.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop4361812259721478186.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop7168583151394845171.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop6044776902952207464.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary7168583151394845171.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop2940251435392152967.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop3049702594975484309.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary1568223682735902243.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop5205530532251807200.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary147926123065923924.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop1543350631652756419.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop1409780641379957992.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop5761813644487094105.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary1543350631652756419.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop2906609257724749751.config
+
+Task submitted: python3 sugarscape.py --conf none4542019987027503046.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop6637307386003099079.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary2906609257724749751.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape6439604057363447949.config
+
+Task submitted: python3 sugarscape.py --conf none5400829736526864273.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop2151872910392376880.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop1058681665675655863.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop1604313069444948088.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary5808420058164200984.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop6124739302321782041.config
+
+Task submitted: python3 sugarscape.py --conf none5205530532251807200.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop7417664570281472702.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop6439604057363447949.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape2906609257724749751.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop166361872751108421.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary6439604057363447949.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary1491306935191447069.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop5400829736526864273.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary147926123065923924.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop7529412210496690814.config
+
+Task submitted: python3 sugarscape.py --conf none6637307386003099079.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop4542019987027503046.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape1543350631652756419.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary4238125538466010306.config
+
+Task submitted: python3 sugarscape.py --conf none1604313069444948088.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary8466127710183569683.config
+
+Task submitted: python3 sugarscape.py --conf none1058681665675655863.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary1409780641379957992.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop1604313069444948088.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary1058681665675655863.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary6566182929173042454.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary5761813644487094105.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary1604313069444948088.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop1058681665675655863.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop4238125538466010306.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary6637307386003099079.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary471615169710421148.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary3049702594975484309.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary4768712482326898506.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop6637307386003099079.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop2906609257724749751.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary8507733795828668790.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary6124739302321782041.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape5400829736526864273.config
+
+Task submitted: python3 sugarscape.py --conf none6439604057363447949.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary7417664570281472702.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape4542019987027503046.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop237765043109750098.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop1543350631652756419.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop237765043109750098.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop5205530532251807200.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary2151872910392376880.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary5205530532251807200.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape5205530532251807200.config
+
+Task submitted: python3 sugarscape.py --conf none117160539193500786.config
+
+Task submitted: python3 sugarscape.py --conf none2906609257724749751.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop4542019987027503046.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary5400829736526864273.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop5400829736526864273.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary4542019987027503046.config
+
+Task submitted: python3 sugarscape.py --conf none1543350631652756419.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary471615169710421148.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape6637307386003099079.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary8403919379409134612.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop6439604057363447949.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape1058681665675655863.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary7529412210496690814.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape1604313069444948088.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop7917538569782475884.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary4761468639299093895.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary7168583151394845171.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop4361812259721478186.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary1777355641411242344.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary117160539193500786.config
+
+Task submitted: python3 sugarscape.py --conf none471615169710421148.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary6661880599268351123.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary7736221014726061.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary4721284316083414681.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary8860126579032750928.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary4127832298716905102.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop2099359078978234933.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop7959744987556945855.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary117160539193500786.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop7210177440093559350.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary166361872751108421.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop2683906888555832761.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary2524957222845957811.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary237765043109750098.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary7210177440093559350.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary2683906888555832761.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop6661880599268351123.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary1241903320999427861.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary6044776902952207464.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop166361872751108421.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary2099359078978234933.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary2940251435392152967.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary3742233277443349621.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary4860077078095449656.config
+
+Task submitted: python3 sugarscape.py --conf none147926123065923924.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop4721284316083414681.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop8860126579032750928.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary7917538569782475884.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop4761468639299093895.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary7959744987556945855.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary4361812259721478186.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop1777355641411242344.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary3049702594975484309.config
+
+Task submitted: python3 sugarscape.py --conf none1568223682735902243.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape6566182929173042454.config
+
+Task submitted: python3 sugarscape.py --conf none237765043109750098.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary1409780641379957992.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop8403919379409134612.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary8403919379409134612.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape8507733795828668790.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape4768712482326898506.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary5761813644487094105.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop1491306935191447069.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary5400829736526864273.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary2151872910392376880.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary4542019987027503046.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary6124739302321782041.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop8466127710183569683.config
+
+Task submitted: python3 sugarscape.py --conf none5808420058164200984.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary7417664570281472702.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop1568223682735902243.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary5205530532251807200.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary147926123065923924.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary7529412210496690814.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop4768712482326898506.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary6637307386003099079.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop8507733795828668790.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary4768712482326898506.config
+
+Task submitted: python3 sugarscape.py --conf none1491306935191447069.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop117160539193500786.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary8507733795828668790.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape8403919379409134612.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop117160539193500786.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop6566182929173042454.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary1058681665675655863.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop4238125538466010306.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary6566182929173042454.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop5808420058164200984.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape166361872751108421.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary1604313069444948088.config
+
+Task submitted: python3 sugarscape.py --conf none8466127710183569683.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop7529412210496690814.config
+
+Task submitted: python3 sugarscape.py --conf none6566182929173042454.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape1568223682735902243.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary8466127710183569683.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop8466127710183569683.config
+
+Task submitted: python3 sugarscape.py --conf none4768712482326898506.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary1491306935191447069.config
+
+Task submitted: python3 sugarscape.py --conf none8507733795828668790.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop1491306935191447069.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop6124739302321782041.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary471615169710421148.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop8403919379409134612.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary6439604057363447949.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop7417664570281472702.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape5808420058164200984.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop5808420058164200984.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop2151872910392376880.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary5808420058164200984.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop6566182929173042454.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary2906609257724749751.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop8507733795828668790.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop4768712482326898506.config
+
+Task submitted: python3 sugarscape.py --conf none8403919379409134612.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary4238125538466010306.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape1491306935191447069.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop3049702594975484309.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary1543350631652756419.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop1409780641379957992.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape8466127710183569683.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary1568223682735902243.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop1568223682735902243.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop5761813644487094105.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop7917538569782475884.config
+
+Task submitted: python3 sugarscape.py --conf none166361872751108421.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop1241903320999427861.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary6661880599268351123.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop4361812259721478186.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop6044776902952207464.config
+
+Task submitted: python3 sugarscape.py --conf none2099359078978234933.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop2940251435392152967.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape4761468639299093895.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape7736221014726061.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop2524957222845957811.config
+
+Task submitted: python3 sugarscape.py --conf none2683906888555832761.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape1777355641411242344.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary7168583151394845171.config
+
+Task submitted: python3 sugarscape.py --conf none7210177440093559350.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary7736221014726061.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary1777355641411242344.config
+
+Task submitted: python3 sugarscape.py --conf none7917538569782475884.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop1777355641411242344.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop2099359078978234933.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary4761468639299093895.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary471615169710421148.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop4761468639299093895.config
+
+Task submitted: python3 sugarscape.py --conf none4361812259721478186.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary4127832298716905102.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop147926123065923924.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop7210177440093559350.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop3742233277443349621.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape237765043109750098.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop4860077078095449656.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary8860126579032750928.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary4721284316083414681.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop2683906888555832761.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary6044776902952207464.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary2940251435392152967.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop117160539193500786.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape2099359078978234933.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary1241903320999427861.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop471615169710421148.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary4361812259721478186.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop4361812259721478186.config
+
+Task submitted: python3 sugarscape.py --conf none4761468639299093895.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary147926123065923924.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop7168583151394845171.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape7210177440093559350.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary7917538569782475884.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop7917538569782475884.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary2524957222845957811.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape2683906888555832761.config
+
+Task submitted: python3 sugarscape.py --conf none1777355641411242344.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop2683906888555832761.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary7959744987556945855.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary7210177440093559350.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape7917538569782475884.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary2683906888555832761.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop7210177440093559350.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape4361812259721478186.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop4761468639299093895.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary3742233277443349621.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary2099359078978234933.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary4860077078095449656.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop2099359078978234933.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop1777355641411242344.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop4127832298716905102.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary7736221014726061.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary6124739302321782041.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop6439604057363447949.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary7417664570281472702.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape2151872910392376880.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary5400829736526864273.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary4542019987027503046.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop1491306935191447069.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape3049702594975484309.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary6566182929173042454.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary7529412210496690814.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape1409780641379957992.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop8466127710183569683.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary4768712482326898506.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop7529412210496690814.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape5761813644487094105.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary8507733795828668790.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary1409780641379957992.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop1568223682735902243.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape7529412210496690814.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary1058681665675655863.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop5761813644487094105.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary8403919379409134612.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop1409780641379957992.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop1543350631652756419.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary5761813644487094105.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary1604313069444948088.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary6637307386003099079.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape471615169710421148.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary3049702594975484309.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop3049702594975484309.config
+
+Task submitted: python3 sugarscape.py --conf none7736221014726061.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop2151872910392376880.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary2151872910392376880.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary5205530532251807200.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop5808420058164200984.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary237765043109750098.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop2906609257724749751.config
+
+Task submitted: python3 sugarscape.py --conf none2151872910392376880.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop5400829736526864273.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop7529412210496690814.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary166361872751108421.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop4542019987027503046.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary5808420058164200984.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary6439604057363447949.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary1568223682735902243.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape147926123065923924.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop8403919379409134612.config
+
+Task submitted: python3 sugarscape.py --conf none3049702594975484309.config
+
+Task submitted: python3 sugarscape.py --conf none5761813644487094105.config
+
+Task submitted: python3 sugarscape.py --conf none1409780641379957992.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop237765043109750098.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary1491306935191447069.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop6637307386003099079.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop6566182929173042454.config
+
+Task submitted: python3 sugarscape.py --conf none7529412210496690814.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop2151872910392376880.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary4238125538466010306.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop1058681665675655863.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary8466127710183569683.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary1543350631652756419.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop4768712482326898506.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop1604313069444948088.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop8507733795828668790.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop3049702594975484309.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop5205530532251807200.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary2906609257724749751.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop1409780641379957992.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop5761813644487094105.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary1241903320999427861.config
+
+Task submitted: python3 sugarscape.py --conf none6661880599268351123.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary6044776902952207464.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop4127832298716905102.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary2099359078978234933.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary2940251435392152967.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary2524957222845957811.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary7959744987556945855.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary7210177440093559350.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary2683906888555832761.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop7959744987556945855.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop8860126579032750928.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop4721284316083414681.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary7917538569782475884.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop6661880599268351123.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape7959744987556945855.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop7168583151394845171.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary4361812259721478186.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop237765043109750098.config
+
+Task submitted: python3 sugarscape.py --conf none4721284316083414681.config
+
+Task submitted: python3 sugarscape.py --conf none8860126579032750928.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary3742233277443349621.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop7736221014726061.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary4860077078095449656.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop4721284316083414681.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop8860126579032750928.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape6661880599268351123.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop7959744987556945855.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary4721284316083414681.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary8860126579032750928.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop3742233277443349621.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop4860077078095449656.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary4761468639299093895.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop166361872751108421.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop7736221014726061.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary7168583151394845171.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape117160539193500786.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary1777355641411242344.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop166361872751108421.config
+
+Task submitted: python3 sugarscape.py --conf none7959744987556945855.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop2524957222845957811.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop1241903320999427861.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop6044776902952207464.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary4127832298716905102.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary6661880599268351123.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop2940251435392152967.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape8860126579032750928.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape4721284316083414681.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop6661880599268351123.config
+
+Task submitted: python3 sugarscape.py --conf none7417664570281472702.config
+
+Task submitted: python3 sugarscape.py --conf none6124739302321782041.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary5808420058164200984.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop5205530532251807200.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary6439604057363447949.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary4238125538466010306.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop6637307386003099079.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop4238125538466010306.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop6566182929173042454.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary1568223682735902243.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop1058681665675655863.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop8507733795828668790.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop1604313069444948088.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop4768712482326898506.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary8466127710183569683.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop6124739302321782041.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary1543350631652756419.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop7417664570281472702.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop8403919379409134612.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary1491306935191447069.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape4238125538466010306.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop117160539193500786.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop5400829736526864273.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop4542019987027503046.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop471615169710421148.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop7736221014726061.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary2906609257724749751.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop147926123065923924.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape6124739302321782041.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary5400829736526864273.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary2151872910392376880.config
+
+Task submitted: python3 sugarscape.py --conf rawSugarscape7417664570281472702.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary4542019987027503046.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadTop4238125538466010306.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop2906609257724749751.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop5808420058164200984.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary117160539193500786.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop1568223682735902243.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary3049702594975484309.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary4768712482326898506.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop1543350631652756419.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary8507733795828668790.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary1409780641379957992.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary6566182929173042454.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary166361872751108421.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary5761813644487094105.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadBinary7529412210496690814.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary6637307386003099079.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop1491306935191447069.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary166361872751108421.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadTop8466127710183569683.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary1058681665675655863.config
+
+Task submitted: python3 sugarscape.py --conf none4238125538466010306.config
+
+Task submitted: python3 sugarscape.py --conf altruisticHalfLookaheadBinary8403919379409134612.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary1604313069444948088.config
+
+Task submitted: python3 sugarscape.py --conf benthamHalfLookaheadBinary5205530532251807200.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadTop6439604057363447949.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary6124739302321782041.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop7417664570281472702.config
+
+Task submitted: python3 sugarscape.py --conf benthamNoLookaheadBinary7417664570281472702.config
+
+Task submitted: python3 sugarscape.py --conf egoisticHalfLookaheadTop6124739302321782041.config
+
+Task none8466127710183569683 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary2099359078978234933 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape2940251435392152967 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop5400829736526864273 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop8507733795828668790 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary1491306935191447069 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop8466127710183569683 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape1491306935191447069 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape6439604057363447949 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary2099359078978234933 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop6439604057363447949 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape7529412210496690814 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none6566182929173042454 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary4721284316083414681 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary117160539193500786 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop1568223682735902243 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary1543350631652756419 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop1409780641379957992 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary7529412210496690814 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop6124739302321782041 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none147926123065923924 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop6124739302321782041 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop6566182929173042454 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape237765043109750098 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop3049702594975484309 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape1568223682735902243 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop6439604057363447949 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none3049702594975484309 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop5761813644487094105 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop2524957222845957811 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none7529412210496690814 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop3742233277443349621 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape6044776902952207464 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop4238125538466010306 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary1604313069444948088 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary8507733795828668790 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary5400829736526864273 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop8860126579032750928 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape7917538569782475884 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none8860126579032750928 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none1241903320999427861 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop2906609257724749751 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary6566182929173042454 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop2940251435392152967 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary1777355641411242344 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop1777355641411242344 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop1568223682735902243 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape7736221014726061 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape5400829736526864273 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary5205530532251807200 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary3049702594975484309 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop7736221014726061 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none4768712482326898506 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop2151872910392376880 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop237765043109750098 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary4860077078095449656 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary1409780641379957992 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary2683906888555832761 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop6661880599268351123 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape1058681665675655863 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none2940251435392152967 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary2151872910392376880 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none7959744987556945855 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape8507733795828668790 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape5808420058164200984 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary8507733795828668790 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop2940251435392152967 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop1543350631652756419 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape4238125538466010306 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop4361812259721478186 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop147926123065923924 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape8466127710183569683 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop1604313069444948088 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop2524957222845957811 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop4721284316083414681 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary7417664570281472702 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary3742233277443349621 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none4721284316083414681 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape4860077078095449656 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary6637307386003099079 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop147926123065923924 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary147926123065923924 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop8507733795828668790 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape4768712482326898506 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop117160539193500786 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none6439604057363447949 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape2524957222845957811 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape6124739302321782041 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary4768712482326898506 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop1241903320999427861 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop2683906888555832761 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary5808420058164200984 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop8466127710183569683 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape1777355641411242344 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop6044776902952207464 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop4238125538466010306 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop7917538569782475884 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none1568223682735902243 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop8860126579032750928 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary237765043109750098 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary1409780641379957992 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop1777355641411242344 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop1058681665675655863 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape6661880599268351123 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop166361872751108421 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop5808420058164200984 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape4721284316083414681 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary6439604057363447949 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop2906609257724749751 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop7417664570281472702 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary4238125538466010306 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop5808420058164200984 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape5205530532251807200 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary117160539193500786 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none7736221014726061 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop7168583151394845171 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary1777355641411242344 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop4542019987027503046 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none471615169710421148 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary1543350631652756419 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop4238125538466010306 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none4238125538466010306 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape7959744987556945855 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary4542019987027503046 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary5400829736526864273 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape6637307386003099079 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary5205530532251807200 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop3049702594975484309 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop7168583151394845171 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary4721284316083414681 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop7959744987556945855 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop2940251435392152967 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none2524957222845957811 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop1543350631652756419 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none1058681665675655863 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none2683906888555832761 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none1491306935191447069 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop6044776902952207464 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary2940251435392152967 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary6439604057363447949 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop7959744987556945855 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape6566182929173042454 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop1604313069444948088 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary166361872751108421 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none5808420058164200984 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape8860126579032750928 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary6661880599268351123 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop8403919379409134612 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop4127832298716905102 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop2099359078978234933 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary7529412210496690814 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop166361872751108421 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary4127832298716905102 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none2099359078978234933 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop1543350631652756419 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape7168583151394845171 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape1241903320999427861 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary7210177440093559350 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop2683906888555832761 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none1604313069444948088 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop2099359078978234933 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none6661880599268351123 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop471615169710421148 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape1604313069444948088 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none2906609257724749751 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none7210177440093559350 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop7529412210496690814 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop4768712482326898506 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop166361872751108421 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none8507733795828668790 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop2099359078978234933 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape2099359078978234933 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none4860077078095449656 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop5205530532251807200 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary4768712482326898506 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none2151872910392376880 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary4761468639299093895 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop5808420058164200984 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary7417664570281472702 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary2683906888555832761 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop237765043109750098 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary4542019987027503046 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop147926123065923924 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary8860126579032750928 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop6637307386003099079 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none7168583151394845171 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape2151872910392376880 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary8403919379409134612 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary2906609257724749751 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop1058681665675655863 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape2683906888555832761 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape7210177440093559350 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop7736221014726061 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary1241903320999427861 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop4127832298716905102 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape2906609257724749751 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop2151872910392376880 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop5400829736526864273 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop1491306935191447069 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop7417664570281472702 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none4542019987027503046 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none7417664570281472702 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop8860126579032750928 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none6044776902952207464 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop8403919379409134612 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary2524957222845957811 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary8466127710183569683 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none7917538569782475884 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary6661880599268351123 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none237765043109750098 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary2151872910392376880 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary1568223682735902243 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary4361812259721478186 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary1568223682735902243 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop2683906888555832761 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none5205530532251807200 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape4361812259721478186 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none1777355641411242344 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary7168583151394845171 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary1058681665675655863 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop4860077078095449656 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop1241903320999427861 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop3049702594975484309 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none5400829736526864273 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary6637307386003099079 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop4768712482326898506 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none6637307386003099079 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape147926123065923924 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape3049702594975484309 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop6124739302321782041 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape471615169710421148 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop1058681665675655863 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary2906609257724749751 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary3049702594975484309 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape7417664570281472702 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop4860077078095449656 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop4761468639299093895 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape4542019987027503046 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop8466127710183569683 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary5761813644487094105 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadTop7210177440093559350 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none6124739302321782041 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none4361812259721478186 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary166361872751108421 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop4238125538466010306 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary6044776902952207464 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary4127832298716905102 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none8403919379409134612 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape5761813644487094105 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape1409780641379957992 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape3742233277443349621 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape117160539193500786 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none5761813644487094105 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop6566182929173042454 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape8403919379409134612 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none1543350631652756419 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape1543350631652756419 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop1604313069444948088 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none1409780641379957992 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none117160539193500786 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop6637307386003099079 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape4127832298716905102 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop4721284316083414681 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none3742233277443349621 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop7917538569782475884 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary7959744987556945855 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop117160539193500786 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none4127832298716905102 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop1491306935191447069 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop5400829736526864273 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary7736221014726061 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none166361872751108421 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop6661880599268351123 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop1409780641379957992 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary6044776902952207464 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop4860077078095449656 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary147926123065923924 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary2524957222845957811 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop7529412210496690814 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop3049702594975484309 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop2099359078978234933 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary1604313069444948088 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop471615169710421148 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary2940251435392152967 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop5761813644487094105 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop4768712482326898506 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop7210177440093559350 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop6044776902952207464 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop3742233277443349621 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop7210177440093559350 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary471615169710421148 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary6566182929173042454 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop471615169710421148 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary7736221014726061 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop2683906888555832761 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop8507733795828668790 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary8466127710183569683 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop2151872910392376880 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop7529412210496690814 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop5205530532251807200 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary471615169710421148 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop4761468639299093895 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary6124739302321782041 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop4361812259721478186 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop1409780641379957992 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop4761468639299093895 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary7959744987556945855 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop7736221014726061 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop4361812259721478186 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop117160539193500786 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop237765043109750098 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop7529412210496690814 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary5400829736526864273 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary1491306935191447069 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop1777355641411242344 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop5808420058164200984 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop7210177440093559350 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop1777355641411242344 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary6661880599268351123 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop1241903320999427861 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop471615169710421148 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop6566182929173042454 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary4542019987027503046 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary6439604057363447949 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary237765043109750098 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop7959744987556945855 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary4761468639299093895 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task none4761468639299093895 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop1058681665675655863 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary4860077078095449656 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop1491306935191447069 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary8860126579032750928 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop2524957222845957811 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary8860126579032750928 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop2906609257724749751 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary1777355641411242344 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary3049702594975484309 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop1543350631652756419 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop1604313069444948088 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop5400829736526864273 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop4127832298716905102 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary237765043109750098 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary5761813644487094105 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop3742233277443349621 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop4542019987027503046 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop4860077078095449656 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop8403919379409134612 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop7736221014726061 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary4361812259721478186 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary4238125538466010306 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary147926123065923924 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary6044776902952207464 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop4768712482326898506 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop6637307386003099079 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop3742233277443349621 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop5205530532251807200 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary5761813644487094105 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary6124739302321782041 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary4238125538466010306 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary8507733795828668790 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadTop4542019987027503046 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop166361872751108421 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop7959744987556945855 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary7210177440093559350 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop4361812259721478186 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary7210177440093559350 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop147926123065923924 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary4361812259721478186 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary6566182929173042454 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary5808420058164200984 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary1058681665675655863 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop1491306935191447069 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape166361872751108421 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary237765043109750098 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop7917538569782475884 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary7917538569782475884 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary8466127710183569683 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary2151872910392376880 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary4768712482326898506 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary7917538569782475884 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary8403919379409134612 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop7168583151394845171 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop7168583151394845171 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary2099359078978234933 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary117160539193500786 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary4761468639299093895 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary8466127710183569683 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary4860077078095449656 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary4127832298716905102 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary7529412210496690814 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop2940251435392152967 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary5400829736526864273 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary5808420058164200984 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop5761813644487094105 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop7417664570281472702 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary1604313069444948088 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary1604313069444948088 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary147926123065923924 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary7417664570281472702 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop6661880599268351123 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary1241903320999427861 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop117160539193500786 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary7917538569782475884 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary4768712482326898506 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop1568223682735902243 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary6124739302321782041 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary1568223682735902243 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary6044776902952207464 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary1543350631652756419 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop6566182929173042454 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary2940251435392152967 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary1058681665675655863 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary2940251435392152967 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop1241903320999427861 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary4721284316083414681 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop2906609257724749751 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary4721284316083414681 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary1409780641379957992 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary7959744987556945855 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary2524957222845957811 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary2683906888555832761 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop8466127710183569683 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary8403919379409134612 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary1568223682735902243 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary5205530532251807200 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary471615169710421148 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary1241903320999427861 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop8507733795828668790 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary1058681665675655863 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary1543350631652756419 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop4721284316083414681 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop5205530532251807200 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary6637307386003099079 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop6637307386003099079 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary1409780641379957992 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary5808420058164200984 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary4860077078095449656 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary1491306935191447069 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop1568223682735902243 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary6439604057363447949 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary2151872910392376880 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary2906609257724749751 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary6566182929173042454 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary4127832298716905102 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary2906609257724749751 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary7168583151394845171 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop6124739302321782041 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary7736221014726061 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary7168583151394845171 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary7210177440093559350 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary4361812259721478186 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary5205530532251807200 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary2683906888555832761 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary7736221014726061 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop4721284316083414681 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary3049702594975484309 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary8507733795828668790 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary2524957222845957811 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task rawSugarscape4761468639299093895 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary7959744987556945855 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary3742233277443349621 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary4238125538466010306 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary7168583151394845171 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop6044776902952207464 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop1409780641379957992 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop7417664570281472702 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop237765043109750098 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop2151872910392376880 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary4542019987027503046 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadBinary3742233277443349621 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop6439604057363447949 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary7417664570281472702 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop8860126579032750928 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary5761813644487094105 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop2524957222845957811 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop4127832298716905102 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary117160539193500786 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary7917538569782475884 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop4542019987027503046 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary6637307386003099079 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary166361872751108421 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary6661880599268351123 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary2099359078978234933 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop5761813644487094105 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary1241903320999427861 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary8860126579032750928 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary1491306935191447069 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary1777355641411242344 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary6124739302321782041 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary7529412210496690814 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop8403919379409134612 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task altruisticHalfLookaheadBinary8403919379409134612 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamNoLookaheadBinary4761468639299093895 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary471615169710421148 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadTop6661880599268351123 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop7917538569782475884 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary3742233277443349621 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop4761468639299093895 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task benthamHalfLookaheadBinary166361872751108421 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Task egoisticHalfLookaheadTop6439604057363447949 has returned!
+Task has returned with status 0
+output is 
+command exit code:
+0
+stdout:
+
+Sugarscape took 2633.1740934848785 seconds to run. EACH JOB TOOK 3.7616772764069695 seconds
+Decision model none took 19010.902950048447 seconds to run, with an average of 380.21805900096894 seconds
+Decision model egoisticHalfLookaheadBinary took 33535.516036748886 seconds to run, with an average of 670.7103207349777 seconds
+Decision model rawSugarscape took 18224.426161766052 seconds to run, with an average of 364.48852323532105 seconds
+Decision model benthamHalfLookaheadTop took 83846.26527357101 seconds to run, with an average of 1676.9253054714202 seconds
+Decision model egoisticHalfLookaheadTop took 69768.77667331696 seconds to run, with an average of 1395.3755334663392 seconds
+Decision model altruisticHalfLookaheadBinary took 33509.88023209572 seconds to run, with an average of 670.1976046419144 seconds
+Decision model altruisticHalfLookaheadTop took 40526.06312251091 seconds to run, with an average of 810.5212624502182 seconds
+Decision model benthamNoLookaheadTop took 5834.654512882233 seconds to run, with an average of 116.69309025764466 seconds
+Decision model benthamNoLookaheadBinary took 97292.15034008026 seconds to run, with an average of 1945.8430068016053 seconds
+Decision model benthamHalfLookaheadBinary took 100667.8301141262 seconds to run, with an average of 2013.3566022825241 seconds
+Sugarscape took 502216.4654171467 seconds to run in total. Each task on an average took 1004.4329308342934 seconds
+warning: this work queue manager is visible to the public.
+warning: you should set a password with the --password option.
+warning: using plain-text when communicating with workers.
+warning: use encryption with a key and cert when creating the manager.

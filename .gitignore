@@ -134,3 +134,9 @@ plots/*.dat
 
 #WorkQueue factory folders including information about factory
 wq-factory-*
+altruistic*
+bentham*
+egoistic*
+none*
+rawSugarscape*
+*.log
