@@ -71,11 +71,18 @@ install_cctools:
 cctools_env: install_cctools
 	$(CONDA_ACTIVATE) cctools-env
 
-distributed_data: seeds cctools_env
+distributed_data_group: seeds cctools_env
 	python3 SugarscapeFactory.py -s 50 > $(DISTRIBUTED_OUTPUT)
 
 distributed_data_console: seeds cctools_env
 	python3 SugarscapeFactory.py -s 50
+
+distributed_data_group: seeds cctools_env
+	python3 SugarscapeFactoryDecisionModelRuntime.py -s 50 > $(DISTRIBUTED_OUTPUT)
+
+distributed_data_console_group: seeds cctools_env
+	python3 SugarscapeFactoryDecisionModelRuntime.py -s 50
+
 
 setup:
 	@echo "Checking for local Bash and Python installations."

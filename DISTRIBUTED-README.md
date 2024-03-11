@@ -102,3 +102,9 @@ make distributed_data
 
 make distributed_data_console
     Run the Python script that submits tasks to live Work Queue workers. Note that this command prints all output to the console. If saving output to a file is desired, run the Makefile option labeled "distributed_data".
+
+make distributed_data_group
+    Run the Python script that submits tasks to live Work Queue workers. Note that this command redirects all output to the associated output file provided in the makefile. If seeing output to the console is desired, run the Makefile option labeled "distributed_data_console".
+
+make distributed_data_console_group
+    Run the Python script that submits tasks to live Work Queue workers. Note that this command redirects all output to the associated output file provided in the makefile. If seeing output to the console is desired, run the Makefile option labeled "distributed_data_console". Groups jobs by decision model type.
